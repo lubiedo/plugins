@@ -1,0 +1,25 @@
+{
+   "pluginmetadataversion": 2,
+   "name": "stringify",
+   "author": "_lubiedo",
+   "type": [
+      "helper"
+   ],
+   "api": [
+      "python2",
+      "python3"
+   ],
+   "description": "Convert address to null-terminated string",
+   "longdescription": "Data in address will be converted to a C-style string",
+   "license": {
+      "name": "BSD-0-clause",
+      "text": "Copyright (C) 2020 _lubiedo\n\nPermission to use, copy, modify, and/or distribute this software for\nany purpose with or without fee is hereby granted.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\" AND THE AUTHOR DISCLAIMS ALL WARRANTIES\nWITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF\nMERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR\nANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES\nWHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN\nAN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT\nOF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.\n"
+   },
+   "platforms": [
+      "Darwin",
+      "Windows",
+      "Linux"
+   ],
+   "version": "1.0",
+   "minimumbinaryninjaversion": 1904
+}
